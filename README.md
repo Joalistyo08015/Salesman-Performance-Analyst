@@ -6,7 +6,7 @@ Project ini dibuat untuk menganalisis performa tenaga penjualan (salesman) berda
 
 Analisis dilakukan menggunakan MySQL sebagai database management system untuk membangun relational database dan Power BI sebagai tools visualisasi data. Dashboard yang dihasilkan bertujuan membantu perusahaan dalam memonitor performa salesman, mengidentifikasi top performer, serta mendukung pengambilan keputusan berbasis data.
 
-**Catatan:** Dataset asli tidak disertakan dalam repository ini karena alasan kerahasiaan dan privasi data perusahaan. Repository ini berfokus pada proses perancangan database, pembuatan query SQL, pengembangan dashboard, dan analisis bisnis.
+> **Catatan:** Dataset asli tidak disertakan dalam repository ini karena alasan kerahasiaan dan privasi data perusahaan. Repository ini berfokus pada proses perancangan database, pembuatan query SQL, pengembangan dashboard, dan analisis bisnis.
 
 ---
 
