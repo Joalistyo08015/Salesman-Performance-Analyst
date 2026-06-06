@@ -203,25 +203,25 @@ Dashboard menampilkan beberapa KPI utama, yaitu:
 
 # 📊 Hasil Analisis
 
-## Performa Revenue
+## Revenue Performance
 
-Terdapat perbedaan kontribusi revenue yang signifikan antar salesman. Beberapa salesman menghasilkan revenue yang jauh lebih tinggi dibandingkan rata-rata tim penjualan.
+Tim penjualan yang terdiri dari 14 salesman berhasil menghasilkan total revenue sebesar Rp4,19 miliar, dengan rata-rata revenue per salesman sebesar Rp299,25 juta.
 
-## Jumlah Transaksi
+## Top Salesman Performance
 
-Salesman dengan revenue tertinggi tidak selalu memiliki jumlah transaksi tertinggi, menunjukkan adanya perbedaan nilai transaksi antar pelanggan.
+Darman Sitorus menjadi salesman dengan performa terbaik dengan total revenue sebesar Rp604,16 juta, atau sekitar 14,42% dari total revenue perusahaan. Nilai tersebut berada sekitar 2 kali lebih tinggi dibandingkan rata-rata revenue per salesman.
 
-## Quantity Penjualan
+## Transaction & Quantity Performance
 
-Performa quantity penjualan menunjukkan variasi kemampuan salesman dalam menjual produk kepada pelanggan.
+Selama periode analisis, tercatat 432 transaksi dan 432 unit penjualan. Darman Sitorus juga mencatat performa tertinggi dengan 63 transaksi dan 63 unit penjualan, menunjukkan kontribusi yang signifikan terhadap aktivitas penjualan perusahaan.
 
-## Tren Revenue
+## Revenue Distribution
 
-Revenue salesman mengalami fluktuasi dari tahun ke tahun, dengan beberapa salesman menunjukkan peningkatan performa yang konsisten.
+Terdapat perbedaan performa yang cukup signifikan antar salesman. Sebagian salesman menghasilkan revenue jauh di atas rata-rata tim, sementara sebagian lainnya masih berada di bawah rata-rata revenue per salesman.
 
-## Kontribusi Revenue
+## Revenue Trend
 
-Top 5 salesman memberikan kontribusi terbesar terhadap total revenue perusahaan dan menjadi pendorong utama performa penjualan.
+Analisis tren menunjukkan bahwa performa revenue antar salesman mengalami fluktuasi selama periode analisis, sehingga diperlukan monitoring berkala untuk menjaga konsistensi pencapaian target penjualan.
 
 ---
 
